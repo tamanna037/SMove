@@ -1,0 +1,17 @@
+﻿Build started 6/4/2015 10:22:59 AM.
+     1>Project "C:\Users\Tamanna\documents\visual studio 2010\Projects\smove\smove\smove.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\smove.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         smove.vcxproj -> C:\Users\Tamanna\documents\visual studio 2010\Projects\smove\Debug\smove.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\smove.unsuccessfulbuild".
+         Touching "Debug\smove.lastbuildstate".
+     1>Done Building Project "C:\Users\Tamanna\documents\visual studio 2010\Projects\smove\smove\smove.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08
