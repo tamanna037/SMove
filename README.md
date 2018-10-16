@@ -1,6 +1,6 @@
 # SMove
 
-Smove is a desktop game. It is programmed by C languange and designed using iGraphics. 
+Smove is a desktop game. It is programmed by C and designed using iGraphics. 
 
 **Rules**
 
