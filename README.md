@@ -9,4 +9,4 @@ Swipe the ball as fast as you can to collect all points, but, don't touch the ba
 
 Multiple levels, new hurdles.
 
-<img src="https://github.com/tamanna037/NoteBook/blob/master/sm.jpg" ALIGN=”left”  height="300" width="200">
+<img src="https://github.com/tamanna037/SMove/blob/master/sm.png" ALIGN=”left”  height="300" width="200">
